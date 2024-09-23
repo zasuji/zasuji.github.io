@@ -1,0 +1,2 @@
+- 2023.7-2023.10 Algorithm Intern (TransMedia Center), Zhijiang Laboratory
+- 2021.7-2021.9 Intelligent Algorithm Engineer (Internship), Huarui Technology Co. LTD
