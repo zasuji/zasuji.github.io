@@ -1,0 +1,4 @@
+- Chinese: Native
+- English: TOFEL 81 (best)
+- Japanese: JLPT N2
+- Programming: Python, Pytorch, DGL, Matlab
