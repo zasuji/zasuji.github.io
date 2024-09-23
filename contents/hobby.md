@@ -1,3 +1,3 @@
 - Anime & Manga
 - Cycling
-- TCG(Digimon, Onepiece)
+- TCG
