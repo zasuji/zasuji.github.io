@@ -1,16 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![tongzhang](https://img.shields.io/badge/tongzhang-github-blue?logo=github)](https://github.com/zasuji)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Tong Zhang was born in Zhejiang, China, in 1998. He received bachelor's degree in Information and Computational Science from Dalian University of Technology in 2021 and received 
+Master's degree in Computer Science and Technology from Dalian University of Technology in 2024. Currently, he is working as a research assistant at Dalian University of Technology. 
 
 #### Email
-sli[at]cumt.edu.cn
+hzzhangtong[at]foxmail.com
+zhangtong980922[at]gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Computer Science and Technology, Dalian University of Technology, 2021—2024.\
+B.E., Information and Computing Science, Dalian University of Technology, 2017—2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Data Mining, Recommender Systems, and Hyperbolic Graph Neural Networks
 
