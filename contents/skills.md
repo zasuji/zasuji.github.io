@@ -1,4 +1,4 @@
 - Chinese: Native
-- English: TOFEL 81 (best)
+- English: TOFEL 81 (MyBest score)
 - Japanese: JLPT N2
 - Programming: Python, Pytorch, DGL, Matlab
