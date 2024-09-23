@@ -6,7 +6,7 @@ Tong Zhang was born in Zhejiang, China, in 1998. He received bachelor's degree i
 Master's degree in Computer Science and Technology from Dalian University of Technology in 2024. Currently, he is working as a research assistant at Dalian University of Technology. 
 
 #### Email
-hzzhangtong[at]foxmail.com
+hzzhangtong[at]foxmail.com \
 zhangtong980922[at]gmail.com
 
 #### Education
