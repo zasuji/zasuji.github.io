@@ -3,7 +3,7 @@
 [![tongzhang](https://img.shields.io/badge/tongzhang-github-blue?logo=github)](https://github.com/zasuji)
 
 Tong Zhang was born in Zhejiang, China, in 1998. He received bachelor's degree in Information and Computational Science from Dalian University of Technology in 2021 and received 
-Master's degree in Computer Science and Technology from Dalian University of Technology in 2024. Currently, he is working as a research assistant at Hong Kong University of Science and Technology HKUST-GZ. 
+Master's degree in Computer Science and Technology from Dalian University of Technology in 2024. Currently, he is working as a research assistant at Hong Kong University of Science and Technology (HKUST-GZ). 
 
 #### Email
 hzzhangtong[at]foxmail.com \
