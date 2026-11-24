@@ -3,7 +3,7 @@
     <div class="timeline-content">
         <h3>Research Assistant</h3>
         <p>Hong Kong University of Science and Technology (Guangzhou)</p>
-        <p><a href="https://yangmenglinsite.github.io/">Menglin Yang</a>'s group</p>
+        <p>Menglin Yang's group</p>
     </div>
 </article>
 
